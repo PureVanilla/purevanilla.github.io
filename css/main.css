@@ -23,3 +23,7 @@ body {
 .jumbotron .btn:hover {
   background-color: #007600 !important;
 }
+
+footer {
+  height: 80px !important;
+}
