@@ -25,11 +25,11 @@ body {
   background-color: #007600 !important;
 }
 
-a {
+.lead a {
   color: #00AA00 !important;
 }
 
-a:hover {
+.lead a:hover {
   color: #00AA00 !important;
   text-decoration: none !important;
 }
