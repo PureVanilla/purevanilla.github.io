@@ -25,11 +25,11 @@ body {
   background-color: #007600 !important;
 }
 
-.link a {
+.lnk a {
   color: #00AA00 !important;
 }
 
-.link a:hover {
+.lnk a:hover {
   color: #00AA00 !important;
   text-decoration: none !important;
 }
