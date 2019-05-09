@@ -17,4 +17,9 @@ body {
 
 .jumbotron .btn {
   background-color: #00AA00 !important;
+  border: 0px !important;
+}
+
+.jumbotron .btn:hover {
+  background-color: #007600 !important;
 }
