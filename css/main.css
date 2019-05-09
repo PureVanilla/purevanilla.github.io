@@ -23,3 +23,12 @@ body {
 .jumbotron .btn:hover {
   background-color: #007600 !important;
 }
+
+.jumbotron a {
+  color: #00AA00 !important;
+}
+
+.jumbotron a:hover {
+  color: #00AA00 !important;
+  text-decoration: none !important;
+}
