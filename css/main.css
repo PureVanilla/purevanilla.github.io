@@ -16,6 +16,7 @@ body {
 }
 
 .jumbotron .btn {
+  float: right;
   background-color: #00AA00 !important;
   border: 0px !important;
 }
@@ -24,11 +25,11 @@ body {
   background-color: #007600 !important;
 }
 
-.jumbotron a {
+.link a {
   color: #00AA00 !important;
 }
 
-.jumbotron a:hover {
+.link a:hover {
   color: #00AA00 !important;
   text-decoration: none !important;
 }
