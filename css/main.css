@@ -6,3 +6,10 @@
 body {
   padding-top: 56px;
 }
+
+.jumbotron {
+  background-image:url("https://scolution.dev/pv/img/bg.jpg") !important;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
